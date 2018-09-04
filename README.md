@@ -1,0 +1,2 @@
+# startupschool
+Snippets of information
