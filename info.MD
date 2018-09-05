@@ -3,6 +3,7 @@
 SPIN is Situation, Problem, Implication and Need.
 
 [I am ready to quit my day job](http://www.founderscoop.com/2018/am-i-ready-to-quit-my-day-job/)
+
 [16 sites to get you elusive early adopters](16-sites-to-get-you-those-elusive-early-adopters.pdf)
 
 [Market Place Handbook](https://versionone.vc/marketplaces-guide-ed2/)
@@ -25,6 +26,8 @@ Because of what economists call “network effects,” these platform products e
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">The current generation of marketplace startups has been incredibly successful. Airbnb, Lime, Uber, Lyft, Instacart, etc. I&#39;ve been doing a broad survey of the best writing on this topic and wanted to share my list of 20 best links I&#39;ve seen.</p>&mdash; Andrew Chen (@andrewchen) <a href="https://twitter.com/andrewchen/status/1016371636260495360?ref_src=twsrc%5Etfw">9 July 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-CRM
+## CRM
+
 [Hubspot](https://www.hubspot.com/startups)
+
 [Trello CRM Sales Pipeline](https://trello.com/b/lrAIa0JW/sales-crm-pipeline)
